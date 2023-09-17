@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Ruble rate</string>
+    <string name="not_available">N/A</string>
+    <string name="wait">wait…</string>
+
+    <string name="info"
+            formatted="false"><u>Point</u>\nThe app shows real-time exchange rates of Russian
+        ruble against USD and EUR (USDRUB_TOM, EURRUB_TOM)\n\n<u>Attention</u>\nThe rates cannot
+        be reliable during weekends and holidays. Wait for a MICEX opening at 10:00MSK\n\n<u>Source
+        </u>\nThe data are taken from www.profinance.ru. As far as I know, this resource is pretty
+        accurate. However, do not trade billions solely based on this information :-). A moment
+        of time below the rate is taken from the resource and should be a time of the rate\n\nIf
+        you find that the app does not work anymore, please, send me a message\n\n<u>Credits
+        </u>\nwww.profinance.ru - data source\nwww.flaticon.com - icons\n\n<u>About</u>\nVersion:
+        2.5\nAuthor: Stanislav Lavrov\n2slavrov@gmail.com
+    </string>
+
+    <string name="warning">WARNING! It can be not a trading hour. Rates can be
+        incorrect</string>
+
+    <string name="jan">JAN</string>
+    <string name="feb">FEB</string>
+    <string name="mar">MAR</string>
+    <string name="apr">APR</string>
+    <string name="may">MAY</string>
+    <string name="jun">JUN</string>
+    <string name="jul">JUL</string>
+    <string name="aug">AUG</string>
+    <string name="sep">SEP</string>
+    <string name="oct">OCT</string>
+    <string name="nov">NOV</string>
+    <string name="dec">DEC</string>
+
+</resources>

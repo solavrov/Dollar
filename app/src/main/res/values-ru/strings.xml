@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Курс рубля</string>
+    <string name="not_available">Н/Д</string>
+    <string name="wait">сек…</string>
+
+        <string name="info"
+                formatted="false"><u>Коротко</u>\nПриложение показывает в реальном времени
+            обменный курс рубля к Доллару США и Евро (USDRUB_TOM, EURRUB_TOM)\n\n<u>Внимание
+            </u>\nКурсы не могут быть надежными в выходные и праздники. Дождитесь
+            открытия торгов ММВБ в 10:00МСК\n\n<u>Источник</u>\nДанные берутся с www.profinance.ru.
+            Насколько мне известно, этот ресурс дает точную информацию. Однако не нужно торговать
+            миллиардами базируясь на этих данных :-). Время берется с ресурса и должно
+            соответствовать времени курса\n\nЕсли вы обнаружите, что это приложение больше не
+            работает, пожалуйста, отправьте мне сообщение\n\n<u>Благодарности</u>\nwww.profinance.ru -
+            данные\nwww.flaticon.com - иконки\n\n<u>О приложении</u>\nВерсия: 2.5\nАвтор:
+            Станислав Лавров\n2slavrov@gmail.com
+    </string>
+
+    <string name="warning">ВНИМАНИЕ! Сейчас торгов может не быть. Курсы могут быть
+        неверными</string>
+
+    <string name="jan">ЯНВ</string>
+    <string name="feb">ФЕВ</string>
+    <string name="mar">МАР</string>
+    <string name="apr">АПР</string>
+    <string name="may">МАЙ</string>
+    <string name="jun">ИЮН</string>
+    <string name="jul">ИЮЛ</string>
+    <string name="aug">АВГ</string>
+    <string name="sep">СЕН</string>
+    <string name="oct">ОКТ</string>
+    <string name="nov">НОЯ</string>
+    <string name="dec">ДЕК</string>
+
+</resources>

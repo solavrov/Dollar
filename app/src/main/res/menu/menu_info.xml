@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.blogspot.smallshipsinvest.dollar.InfoActivity">
+
+    <item
+        android:orderInCategory="100"
+        android:title="Back"
+        app:showAsAction="always"
+        android:onClick="backToMain"
+        android:icon="@drawable/ic_arrow_back_24dp"/>
+
+</menu>
